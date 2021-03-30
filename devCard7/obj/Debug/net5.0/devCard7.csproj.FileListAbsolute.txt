@@ -114,3 +114,7 @@ C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\bin\Debug\net5
 C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\obj\Debug\net5.0\Razor\Views\Home\components\projects\_project.cshtml.g.cs
+C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\obj\Debug\net5.0\Razor\Views\Home\Components\ArticleLatests\_ArticleLatest.cshtml.g.cs
+C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\Amir\Desktop\asp.net core\my2ndProject\devCard7\devCard7\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs

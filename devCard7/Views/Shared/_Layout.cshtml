@@ -22,7 +22,7 @@
     @await Html.PartialAsync("Header")
 
     <div class="main-wrapper">
-        
+
         @RenderBody()
 
         @await Html.PartialAsync("Footer")
@@ -33,6 +33,9 @@
     <script src="~/assets/plugins/jquery-3.4.1.min.js"></script>
     <script src="~/assets/plugins/popper.min.js"></script>
     <script src="~/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    @* validation jquery scripts (unobtrusive) *@
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 </body>
 
 </html>
